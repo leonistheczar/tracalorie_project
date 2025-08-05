@@ -3,6 +3,8 @@
 A lightweight calorie tracking web application built with **Vanilla JavaScript**, following the **Module Controller Pattern** and using **IIFEs** for encapsulation and separation of concerns. It allows users to track meals and their calorie intake with persistent data storage using `localStorage`.
 
 ---
+## 📌 Project Link
+-Site: https://trakalories.netlify.app/
 
 ## 📌 Project Purpose
 
