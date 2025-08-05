@@ -4,7 +4,8 @@ A lightweight calorie tracking web application built with **Vanilla JavaScript**
 
 ---
 ## 📌 Project Link
--Site: https://trakalories.netlify.app/
+Site: 
+ - https://trakalories.netlify.app/
 
 ## 📌 Project Purpose
 
