@@ -30,6 +30,12 @@ This project was built to:
 
 ## 🧠 Tech Highlights
 
+## 🚀 Tech Stack
+
+- ✅ HTML, CSS (Bootstrap 5)
+- ✅ Vanilla Javascript
+- ✅ Git  
+
 ### ✅ Module Controller Pattern
 
 The project is broken into 4 key modules, all implemented using IIFE:
